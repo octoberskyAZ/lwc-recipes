@@ -1,3 +1,7 @@
 Some sample content
 Added a second line
+<<<<<<< HEAD
 Added a 4th line
+=======
+Third line in VS Code
+>>>>>>> 00d3bd9 (Local commit on 3rd Lines)
